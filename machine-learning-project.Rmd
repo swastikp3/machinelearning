@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Project "
 output: html_document
-author: Swastik
+author: Swastik 
 ---
 
 
@@ -12,10 +12,14 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
 ## Project Goal
  In this project, our goal will be to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants who were asked to perform barbell lifts correctly and incorrectly in 5 different ways and data were collected for all their personal activity. The aim is to predict the manner in which they did the exercise.
 
-We should create a report describing :
+We should create a report describing ::
+
 1. How we built your model, 
+
 2. How we used cross validation, 
+
 3. What we think the expected out of sample error is,  
+
 4. Why we made the choices we did. 
 
 5. The model will also use your prediction model to predict 20 different test cases.
