@@ -22,10 +22,10 @@ We should create a report describing :
 
 ## Project Data
 
-Training data is available @ https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv 
+Training data is available @ https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv                              
 
 Test data is available @ https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv 
-
+                         
 Importing Packages 
 ```{r}
 library(AppliedPredictiveModeling)
